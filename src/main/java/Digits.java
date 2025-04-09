@@ -25,7 +25,7 @@ public class Digits
 				return false;
 			}
 		}
-		return false;
+		return true;
 
 	}
 	
